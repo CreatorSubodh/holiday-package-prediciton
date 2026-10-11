@@ -80,7 +80,7 @@ ROC-AUC: 0.981
 ## How to run it
 
 ```bash
-git clone [your repo link]
+git clone [https://github.com/CreatorSubodh/holiday-package-prediciton]
 cd 04_Random-Forest-Classifier
 pip install -r requirements.txt
 streamlit run app.py
